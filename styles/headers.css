@@ -141,7 +141,7 @@
     }
 
     .opções__botão:checked~.opções__rotulo>.opções__item {
-        background: var(--vermelho);
+        background: var(--azul);
         color: var(--branco);
         border-radius: 30px;
     }
