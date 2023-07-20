@@ -136,7 +136,7 @@
  
  @keyframes AnimarBorda {
      0% {
-         background-position: 90;
+         background-position: 900;
      }
      100% {
          background-position: 400%;
