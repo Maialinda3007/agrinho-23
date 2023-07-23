@@ -3,7 +3,7 @@
 @import url("styles/carrossel.css");
 
 :root {
-    --cor-de-fundo: #97c8e0;
+    --cor-de-fundo: #a8d7ee;
     --branco: #FFFFFF;
     --laranja: #EB9B00;
     --vermelho: #be1f07;
@@ -20,7 +20,7 @@ body {
 }
 
 .final-box{
-    background-color: olive;
+    background-color: rgb(51, 117, 240);
     width: 950px;
     height: 80px;
     margin: auto;  
