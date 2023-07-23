@@ -18,3 +18,10 @@ body {
     font-size: 16px;
     font-weight: 400; 
 }
+
+.final-box{
+    background-color: red;
+    width: 450px;
+    height: 300px;
+    margin: auto;  
+}
