@@ -1,12 +1,12 @@
 .carrossel {
-    background-color: var(--laranja);
+    background-color: var(--marrom);
     width: 950px;
     height: 300px;
     margin: auto;
     
 }
 .carrossel__titulo {
-    color: var(--laranja);
+    color: var(--marrom);
     background-color: var(--amarelo);
     text-align: center;
     text-transform: uppercase;
