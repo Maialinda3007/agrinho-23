@@ -23,5 +23,7 @@ body {
     background-color: rgb(56, 91, 155);
     width: 950px;
     height: 80px;
+    text-align: center;
     margin: auto;  
 }
+
