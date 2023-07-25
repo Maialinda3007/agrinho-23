@@ -27,14 +27,11 @@ body {
     margin: auto;  
 }
 
-@media screen and (min-width: 1024px) {
-    
+@media screen and (max-width: 768px){
+    .produto-container{
+        width: 100%;
+        flex-direction: column;
+    }
 }
+    
 
-@media screen and (max-width:767px) {
-    
-}
-    
-@media screen and (min-width:767px) and (max-width:1023px){
-    
-}
