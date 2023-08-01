@@ -9,7 +9,7 @@
     --vermelho: #be1f07;
     --fonte-principal: "Poppins";
     --preto: #000000;
-    --amarelo : #81b472; 
+    --amarelo : #7bac6c; 
 }
 
 body {
@@ -20,7 +20,7 @@ body {
 }
 
 .final-box{
-    background-color: rgb(18, 92, 10);
+    background-color: #7bac6c;
     width: 950px;
     height: 80px;
     text-align: center;
