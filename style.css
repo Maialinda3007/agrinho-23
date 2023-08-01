@@ -39,7 +39,16 @@ body {
         flex-direction: column;
     }
 }
+
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
     
+
 body.dark {
     background: #292c35;
   }
